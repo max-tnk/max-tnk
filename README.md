@@ -11,7 +11,7 @@ Currently, I'm focusing on improving my skills in **JavaScript, TypeScript, Pris
 My goal is to keep improving myself and become a well-rounded **Full-Stack Developer** who can build reliable and maintainable web applications from frontend to backend.
 
 ---
-<detail>
+<details>
 <summary> ## 🚀 About Me </summary>
 
 - 💻 Currently focusing on **Web Development**
@@ -26,7 +26,7 @@ My goal is to keep improving myself and become a well-rounded **Full-Stack Devel
 - 🐍 Interested in learning **Python** to expand my Backend development skills
 - 📚 I enjoy learning by building real-world projects
 - 🔥 Always looking for opportunities to improve my programming logic and problem-solving skills
-</detail>
+</details>
 ---
 
 ## 🛠️ Tech Stack
