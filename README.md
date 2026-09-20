@@ -11,8 +11,8 @@ Currently, I'm focusing on improving my skills in **JavaScript, TypeScript, Pris
 My goal is to keep improving myself and become a well-rounded **Full-Stack Developer** who can build reliable and maintainable web applications from frontend to backend.
 
 ---
-
-## 🚀 About Me
+<detail>
+<summary> ## 🚀 About Me </summary>
 
 - 💻 Currently focusing on **Web Development**
 - ⚛️ Mainly working with **Next.js**
@@ -26,7 +26,7 @@ My goal is to keep improving myself and become a well-rounded **Full-Stack Devel
 - 🐍 Interested in learning **Python** to expand my Backend development skills
 - 📚 I enjoy learning by building real-world projects
 - 🔥 Always looking for opportunities to improve my programming logic and problem-solving skills
-
+</detail>
 ---
 
 ## 🛠️ Tech Stack
@@ -67,7 +67,7 @@ A web-based **Overtime & Leave Management System** designed to manage employee o
 - Prisma ORM
 - PostgreSQL
 - Tailwind CSS
-
+- 
 ### Key Features
 
 - 🔐 Authentication & Role-Based Access Control
