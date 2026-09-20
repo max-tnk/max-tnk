@@ -1,26 +1,31 @@
 # 👋 Hi, I'm Thanakorn Intarak (Max)
 
-### 🚀 Web Developer | Next.js | Fullstack Developer in Progress
+### 💻 Web Developer | Next.js Developer | Aspiring Full-Stack Developer
 
-I'm **Thanakorn Intarak (Max)**, a Web Developer who mainly works with **Next.js**.
+I'm **Thanakorn Intarak**, also known as **Max**.
 
-Currently, I'm focusing on improving my programming fundamentals and developing my skills in **JavaScript, TypeScript, Prisma ORM, and PostgreSQL**.
+I'm a Web Developer who mainly works with **Next.js** and enjoys building web applications and learning how different parts of a web system work together.
 
-My goal is to continuously improve myself and grow toward becoming a strong **Fullstack Developer**.
+Currently, I'm focusing on improving my skills in **JavaScript, TypeScript, Prisma ORM, and PostgreSQL**, while continuously developing my understanding of **Full-Stack Development**.
+
+My goal is to keep improving myself and become a well-rounded **Full-Stack Developer** who can build reliable and maintainable web applications from frontend to backend.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 💻 Web Developer focusing on **Next.js**
-- ⚛️ Building web applications with **React & Next.js**
-- 🧠 Currently improving my **JavaScript Logic & Programming Fundamentals**
-- 📘 Learning **TypeScript**
-- 🗄️ Learning and working with **Prisma ORM**
-- 🐘 Working with **PostgreSQL**
-- 🔧 Building real-world projects to improve my development skills
-- 🚀 Currently developing toward **Fullstack Developer**
-- 🎯 Always learning, building, and improving
+- 💻 Currently focusing on **Web Development**
+- ⚛️ Mainly working with **Next.js**
+- 🧠 Currently learning and improving:
+  - JavaScript
+  - TypeScript
+  - Prisma ORM
+  - PostgreSQL
+- 🎯 Long-term goal: Become a strong **Full-Stack Developer**
+- 🎨 Interested in expanding my Frontend skills with **Vue.js / Nuxt**
+- 🐍 Interested in learning **Python** to expand my Backend development skills
+- 📚 I enjoy learning by building real-world projects
+- 🔥 Always looking for opportunities to improve my programming logic and problem-solving skills
 
 ---
 
@@ -28,61 +33,58 @@ My goal is to continuously improve myself and grow toward becoming a strong **Fu
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
+### Currently Exploring
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 📌 Featured Project
 
-### 🏢 OT & Leave Management System
+### 🕒 OT & Leave Management System
 
-A web application for managing **Overtime and Leave requests**.
+A web-based **Overtime & Leave Management System** designed to manage employee overtime, leave requests, approval workflows, leave balances, and role-based permissions.
 
-The system includes:
+**Built with:**
 
-- 👤 User Authentication
-- 🔐 Role-Based Access Control (RBAC)
-- 📝 Overtime Request
-- 🏖️ Leave Request
-- ✅ Approval Workflow
-- 📅 Calendar
-- 📊 Dashboard & Reports
+- Next.js
+- React
+- TypeScript
+- Prisma ORM
+- PostgreSQL
+- Tailwind CSS
+
+### Key Features
+
+- 🔐 Authentication & Role-Based Access Control
+- 👥 Employee / Senior / Assistant Manager / Manager roles
+- 🕒 Overtime Request & Approval Workflow
+- 📅 Calendar & Overtime Planning
+- 🏖️ Leave Request & Approval System
+- 💰 Leave Balance Management
 - 🗄️ PostgreSQL Database
-- 🔄 API Routes
-- 🔒 Permission Management
-
-### Tech Stack
-
-`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS`
+- 🔄 API-based communication between Frontend and Backend
 
 ---
 
-## 📚 Currently Learning
-
-I'm currently focusing on improving my understanding of programming logic rather than only learning frameworks.
+## 🎯 My Learning Roadmap
 
 ```text
 JavaScript
-    ↓
-Programming Logic
     ↓
 TypeScript
     ↓
@@ -90,10 +92,12 @@ React
     ↓
 Next.js
     ↓
-API & Backend
+Prisma + PostgreSQL
     ↓
-Prisma ORM
+Full-Stack Development
     ↓
-PostgreSQL
+Vue.js / Nuxt
     ↓
-Fullstack Development
+Python Backend
+    ↓
+🚀 Full-Stack Developer
