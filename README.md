@@ -12,7 +12,7 @@ My goal is to keep improving myself and become a well-rounded **Full-Stack Devel
 
 ---
 <details>
-<summary> ## 🚀 About Me </summary>
+<summary>🚀 About Me </summary>
 
 - 💻 Currently focusing on **Web Development**
 - ⚛️ Mainly working with **Next.js**
@@ -27,7 +27,6 @@ My goal is to keep improving myself and become a well-rounded **Full-Stack Devel
 - 📚 I enjoy learning by building real-world projects
 - 🔥 Always looking for opportunities to improve my programming logic and problem-solving skills
 </details>
----
 
 ## 🛠️ Tech Stack
 
